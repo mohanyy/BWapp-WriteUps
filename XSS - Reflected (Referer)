@@ -1,3 +1,0 @@
-# XSS - Reflected (Referer)
-
-So, upon visiting this page, I found no input fields or any button or anything, except this text, which is displaying my current referer: 
